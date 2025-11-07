@@ -6,7 +6,7 @@
 ### "A Fully Responsive Website i.e. E-school Creation using DaisyUI and TailwindCSS Framework"
 <br/>
 
-    live link : https://sabrina-mostafa.github.io/FrontEnd_Course--Assignment-5_-daisyUI-/
+    live link: https://sabrina-mostafa.github.io/PROJECT_E-School/
 
 ### My site is live at :
-https://sabrina-mostafa.github.io/FrontEnd_Course--Assignment-5_-daisyUI-/
+https://sabrina-mostafa.github.io/PROJECT_E-School/
